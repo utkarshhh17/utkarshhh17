@@ -1,9 +1,7 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+# ***<div align="center">👋Hi, I 'm Utkarsh</div>***  
   
 
-### <div align="center">Hi, I 'm Utkarsh</div>  
+## About Me  
   
 
 - 🔭 I’m currently pursuing a degree in Information Science and Engineering  
@@ -80,11 +78,12 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/utkarshhh17" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/utkarsh-singh-608177291" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/utkarshhh17" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
   
 
 <br/>  
